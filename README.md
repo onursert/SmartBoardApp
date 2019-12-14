@@ -1,4 +1,4 @@
-# SmartBoardApp
+# Smart Board App
 <p>Smart Board App (with Microsoft.Expression.Encoder) - 2015 (C#)</p>
 <p>Smart Board App is a free image editing software that runs on Windows PC platform. This program is very simple to use and developed with a simple design.</p>
 <img src="SmartBoardApp1.gif">
