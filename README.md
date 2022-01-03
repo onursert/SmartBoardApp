@@ -8,4 +8,5 @@
 <p>Other important feature of this program is capture the workspace. This feature uses <a href="https://www.microsoft.com/en-us/download/details.aspx?id=18974">Microsoft Expression Encoder</a>.</p>
 <p>Smart Board App doesn't require installation.</p>
 <a href="https://github.com/onursert/SmartBoardApp/raw/master/SmartBoardApp.zip">Download Smart Board App</a>
+<br/>
 <a href="https://github.com/onursert/SmartBoardApp/raw/master/SmartBoardApp_v5.zip">Download Smart Board App v5</a>
