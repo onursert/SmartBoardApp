@@ -29,7 +29,7 @@ namespace SmartBoardApp
         {
             pictureBox1.BackColor = Color.Transparent;
             panel1.BackColor = Color.Transparent;
-            TransparencyKey = Color.Lime;
+            TransparencyKey = Color.Fuchsia;
             BackColor = Color.White;
             this.Opacity = 0.5;
 
@@ -313,7 +313,7 @@ namespace SmartBoardApp
         {
             pictureBox1.BackColor = Color.Transparent;
             panel1.BackColor = Color.Transparent;
-            TransparencyKey = Color.Lime;
+            TransparencyKey = Color.Fuchsia;
             BackColor = Color.White;
             this.Opacity = 0.5;
             TopMost = false;
@@ -342,8 +342,8 @@ namespace SmartBoardApp
         {
             pictureBox1.BackColor = Color.Transparent;
             panel1.BackColor = Color.Transparent;
-            TransparencyKey = Color.Lime;
-            BackColor = Color.Lime;
+            TransparencyKey = Color.Fuchsia;
+            BackColor = Color.Fuchsia;
             TopMost = true;
             pictureBox1.Image = null;
             
